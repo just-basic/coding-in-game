@@ -1,0 +1,31 @@
+{
+    "name": "Onboarding",
+    "languages":[
+        {"name":"Bash", "value": false},
+        {"name":"C", "value": false},
+        {"name":"C#", "value": false},
+        {"name":"C++", "value": false},
+        {"name":"Clojure", "value": false},
+        {"name":"D", "value": false},
+        {"name":"Dart", "value": false},
+        {"name":"F#", "value": false},
+        {"name":"Go", "value": false},
+        {"name":"Groovy", "value": false},
+        {"name":"Java", "value": true},
+        {"name":"JavaScript", "value": false},
+        {"name":"Kotlin", "value": false},
+        {"name":"Lua", "value": false},
+        {"name":"Objective-C", "value": false},
+        {"name":"Ocaml", "value": false},
+        {"name":"Pascal", "value": false},
+        {"name":"Perl", "value": false},
+        {"name":"PHP", "value": false},
+        {"name":"Python 3", "value": false},
+        {"name":"Ruby", "value": false},
+        {"name":"Rust", "value": false},
+        {"name":"Scala", "value": false},
+        {"name":"Swift", "value": false},
+        {"name":"TypeScript", "value": false},
+        {"name":"VB.NET", "value": false}
+    ]
+}
