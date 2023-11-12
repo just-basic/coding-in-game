@@ -1,11 +1,11 @@
 # Quest: Onboarding
-Link: [Onboarding](https://www.codingame.com/training/easy/onboarding)
+Link: [NAME](page)
 
 ## All code:
 _ _DONE = ✅ | INPROGRESS = ⏳ |  = ❌_ _
-**Bash:** ✅ <br />
+**Bash:** ❌ <br />
 **C:** ❌ <br />
-**C#:** ✅ <br />
+**C#:** ❌ <br />
 **C++:** ❌ <br />
 **Clojure:** ❌ <br />
 **D:** ❌ <br />
@@ -13,8 +13,8 @@ _ _DONE = ✅ | INPROGRESS = ⏳ |  = ❌_ _
 **F#:** ❌ <br />
 **Go:** ❌ <br />
 **Groovy:** ❌ <br />
-**Java:** ✅ <br />
-**JavaScript:** ✅ <br />
+**Java:** ❌ <br />
+**JavaScript:** ❌ <br />
 **Kotlin:** ❌ <br />
 **Lua:** ❌ <br />
 **Objective-C:** ❌ <br />
